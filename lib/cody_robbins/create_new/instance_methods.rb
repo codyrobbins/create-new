@@ -30,13 +30,6 @@ module CodyRobbins
 
         set_instance_variable(name, object)
       end
-
-      def save_changes_to(name)
-        model = instance_variable(name)
-        attributes = params[name]
-
-        model.update_attributes(attributes)
-      end
     end
   end
 end
