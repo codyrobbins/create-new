@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name     = 'create-new'
   s.version  = '1.0'
-  s.summary  = 'Create new instances of Rails models from params in one call.'
+  s.summary  = 'Create a new instance of a Rails model in controller actions in one call.'
   s.homepage = 'http://codyrobbins.com/software/create-new'
   s.author   = 'Cody Robbins'
   s.email    = 'cody@codyrobbins.com'
