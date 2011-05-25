@@ -52,5 +52,5 @@ To send patches, please fork on GitHub and submit a pull request.
 © 2011 [Cody Robbins](http://codyrobbins.com/). See LICENSE for details.
 
 * [Homepage](http://codyrobbins.com/software/create-new)
-* [My other gems](https://rubygems.org/profiles/50409)
+* [My other gems](http://codyrobbins.com/software#gems)
 * [Follow me on Twitter](http://twitter.com/codyrobbins)
