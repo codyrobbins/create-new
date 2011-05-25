@@ -1,5 +1,5 @@
-Create New for Rails
-=======================
+Create New
+==========
 
 This Rails plugin makes a `create_new` method available in `ApplicationController` which
 
